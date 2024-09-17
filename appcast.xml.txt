@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>اتصالات جروب</title>
-        <sparkle:version>1.7.0</sparkle:version>
         <item>
             <title>Version 1.4.0</title>
+        <sparkle:version>1.7.0</sparkle:version>
+    <sparkle:criticalUpdate></sparkle:criticalUpdate>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.pioneers.etisalatgroub&pli=1" sparkle:os="android" />
